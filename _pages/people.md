@@ -16,7 +16,7 @@ author_profile: true
 
 ## 教师
 
-<img src="/InSARcumtb.github.io/images/weitang_photo.png" alt="WT_photo" width="300">
+<img src="/images/weitang_photo.png" alt="WT_photo" width="300">
 
 
 
@@ -109,4 +109,5 @@ author_profile: true
 * **赵祥君** 
 
 * **王金洋** 
+
 
