@@ -18,4 +18,4 @@ The Fenhe River Basin, a semiarid region in northern China, faces severe land su
 
 # Graphical Abstract
 
-![Graphical Abstract](/InSARcumtb.github.io/files/Natural-Hazards_abstract.png)
+![Graphical Abstract](/files/Natural-Hazards_abstract.png)
