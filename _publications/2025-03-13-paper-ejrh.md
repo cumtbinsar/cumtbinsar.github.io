@@ -38,4 +38,4 @@ Land subsidence lags groundwater level changes by an average of 39 days, reveali
 
 # Graphical Abstract
 
-![Graphical Abstract](/InSARcumtb.github.io/files/johrs_abstract.png)
+![Graphical Abstract](/files/johrs_abstract.png)
