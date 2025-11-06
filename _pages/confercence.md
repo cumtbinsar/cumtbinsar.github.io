@@ -13,7 +13,7 @@ redirect_from:
 
 赵祥君 口头报告
 
-![photo](/InSARcumtb.github.io/files/meeting7.jpg)
+![photo](/files/meeting7.jpg)
 
 ## 2025-10：2025年全国博士生(测绘、遥感学科)学术论坛 - 中南大学
 
@@ -21,8 +21,8 @@ redirect_from:
  | 
 李雪鹏 参会
 
-![photo](/InSARcumtb.github.io/files/meeting5.jpg)
-![photo](/InSARcumtb.github.io/files/meeting6.jpg)
+![photo](/files/meeting5.jpg)
+![photo](/files/meeting6.jpg)
 
 
 ## 2024-06：第一届雷达干涉测量学术研讨会 - 武汉大学
@@ -33,10 +33,10 @@ redirect_from:
   | 
 付煜 常纪龙 参会
 
-![photo](/InSARcumtb.github.io/files/meeting22.jpg)
-![photo](/InSARcumtb.github.io/files/meeting2.jpg)
-![photo](/InSARcumtb.github.io/files/meeting3.jpg)
-![photo](/InSARcumtb.github.io/files/meeting4.jpg)
+![photo](/files/meeting22.jpg)
+![photo](/files/meeting2.jpg)
+![photo](/files/meeting3.jpg)
+![photo](/files/meeting4.jpg)
 
 
 
@@ -46,8 +46,8 @@ redirect_from:
  | 
 朱桐作 耿旭 付煜 常纪龙 参会
 
-![photo](/InSARcumtb.github.io/files/meeting0.jpg)
-![photo](/InSARcumtb.github.io/files/meeting1.jpg)
+![photo](/files/meeting0.jpg)
+![photo](/files/meeting1.jpg)
 
 ## 2023-03：参加测绘科学前沿技术发展研讨会 - 北京建筑大学
 
