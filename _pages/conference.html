@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Conference/学术会议"
+permalink: /conference/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.conference reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
