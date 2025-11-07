@@ -134,7 +134,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>刘莹</strong></p>
       <p><strong>博士 2025级</strong></p>
-      <p>研究InSAR地表形变与地下水耦合机制。</p>
+      <p>研究InSAR相位解缠误差改正算法。</p>
     </div>
   </div>
 
@@ -143,7 +143,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>李雪鹏</strong></p>
       <p><strong>博士 2025级</strong></p>
-      <p>从事矿区沉陷监测与时序InSAR分析。</p>
+      <p>从事华北平原时序InSAR与地下水位变化分析。</p>
     </div>
   </div>
 
@@ -279,7 +279,7 @@ html[data-theme="dark"] .teacher-info ul li {
   </div>
 
   <div class="student-card">
-    <img class="student-photo" src="/files/students/chengshuai.jpg" alt="成帅帅">
+    <img class="student-photo" src="/files/students/chengshuaishuai.jpg" alt="成帅帅">
     <div class="student-info">
       <p><strong>成帅帅</strong></p>
       <p><strong>硕士 2023级</strong></p>
@@ -360,7 +360,7 @@ html[data-theme="dark"] .teacher-info ul li {
   </div>
 
   <div class="student-card">
-    <img class="student-photo" src="/files/students/zhaoxiangjun.jpg" alt="赵祥君">
+    <img class="student-photo" src="/files/students/wangjinyang.jpg" alt="赵祥君">
     <div class="student-info">
       <p><strong>赵祥君</strong></p>
       <p><strong>硕士 2020级</strong></p>
@@ -380,3 +380,4 @@ html[data-theme="dark"] .teacher-info ul li {
 </div>
 
 </div>
+
