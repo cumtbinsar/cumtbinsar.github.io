@@ -243,7 +243,7 @@ html[data-theme="dark"] .teacher-info ul li {
   </div>
 
   <div class="student-card">
-    <img class="student-photo" src="/files/students/lixingchong.jpg" alt="李兴冲">
+    <img class="student-photo" src="/files/students/liyonghui.jpg" alt="李兴冲">
     <div class="student-info">
       <p><strong>李永辉</strong></p>
       <p><strong>硕士 2023级</strong></p>
@@ -254,7 +254,7 @@ html[data-theme="dark"] .teacher-info ul li {
   <div class="student-card">
     <img class="student-photo" src="/files/students/linchunyan.jpg" alt="林春燕">
     <div class="student-info">
-      <p><strong>林春燕</strong></p>
+      <p><strong>林春艳</strong></p>
       <p><strong>硕士 2023级</strong></p>
       <p>研究地下水与地面沉降的关系。</p>
     </div>
@@ -380,4 +380,5 @@ html[data-theme="dark"] .teacher-info ul li {
 </div>
 
 </div>
+
 
