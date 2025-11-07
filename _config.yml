@@ -224,6 +224,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  conference:
+    output: true
+    permalink: /:collection/:path/
   activities:
     output: true
     permalink: /:collection/:path/
