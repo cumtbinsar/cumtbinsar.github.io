@@ -143,7 +143,9 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>李雪鹏</strong></p>
       <p><strong>博士 2025级</strong></p>
-      <p>从事华北平原时序InSAR与地下水位变化分析。</p>
+      <p>研究方向为基于InSAR技术的华北平原地下水储量和水文参数研究，以第一作者和通讯作者已发表三篇SCI论文
+Researchgat：[https://www.researchgate.net/profile/Xuepeng-Li-6?ev=prf_overview](https://www.researchgate.net/profile/Xuepeng-Li-6?ev=prf_overview)
+Email：lixuepeng2001@163.com</p>
     </div>
   </div>
 
@@ -184,7 +186,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>马腾飞</strong></p>
       <p><strong>硕士 2025级</strong></p>
-      <p>研究采动沉陷监测与建模方法。</p>
+      <p>来自河南省三门峡市，本科毕业于河南理工大学，喜欢打篮球，打羽毛球，性格外向。</p>
     </div>
   </div>
 
@@ -193,7 +195,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>赵菁钰</strong></p>
       <p><strong>硕士 2025级</strong></p>
-      <p>研究多源InSAR形变特征提取。</p>
+      <p>山东德州人，本科毕业于山东科技大学，研究方向为新疆昌吉农业区地下水超采及地面沉降的监测与分析。</p>
     </div>
   </div>
 
@@ -202,7 +204,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>李家炜</strong></p>
       <p><strong>硕士 2025级</strong></p>
-      <p>研究地表沉降建模与趋势分析。</p>
+      <p>研一，男，24岁，山西朔州人。研究方向为InSAR地表沉降建模与趋势分析。性格开朗乐观，积极向上。</p>
     </div>
   </div>
 
@@ -211,7 +213,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>雷一鸣</strong></p>
       <p><strong>硕士 2024级</strong></p>
-      <p>从事地下水变化与形变响应研究。</p>
+      <p>研究油气储层地面沉降反演与数值模拟。</p>
     </div>
   </div>
 
@@ -229,7 +231,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>李兴冲</strong></p>
       <p><strong>硕士 2024级</strong></p>
-      <p>关注盆地沉降及其水文响应分析。</p>
+      <p>从事多时相InSAR技术在交通设施沉降监测中的应用及风险评估。</p>
     </div>
   </div>
 
@@ -238,7 +240,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>位雪婷</strong></p>
       <p><strong>硕士 2024级</strong></p>
-      <p>从事地表形变监测与风险评估。</p>
+      <p>研究苏锡常地区地面沉降与地下水水位变化关系。</p>
     </div>
   </div>
 
@@ -247,7 +249,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>李永辉</strong></p>
       <p><strong>硕士 2023级</strong></p>
-      <p>关注盆地沉降及其水文响应分析。</p>
+      <p>辽河三角洲海岸线地面沉降研究。</p>
     </div>
   </div>
 
@@ -256,7 +258,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>林春艳</strong></p>
       <p><strong>硕士 2023级</strong></p>
-      <p>研究地下水与地面沉降的关系。</p>
+      <p>研究华北平原地面沉降机理，并结合地质、地下水、土地利用、降雨等影响因子模拟地面沉降。</p>
     </div>
   </div>
 
@@ -265,7 +267,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>王一鸣</strong></p>
       <p><strong>硕士 2023级</strong></p>
-      <p>研究地质灾害与水资源管理。</p>
+      <p>太原市小店区InSAR地面沉降监测与地下水位变化耦合关系。</p>
     </div>
   </div>
 
@@ -292,7 +294,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>刘凯</strong></p>
       <p><strong>硕士 2023级</strong></p>
-      <p>研究地下水变化与地表沉降的影响。</p>
+      <p>河北衡水人，本科毕业于华北理工大学测绘工程专业，研究方向为InSAR矿山形变监测应用。。</p>
     </div>
   </div>
 
@@ -301,7 +303,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>付煜</strong></p>
       <p><strong>硕士 2022级</strong></p>
-      <p>研究沉降监测与数据分析。</p>
+      <p>时间序列InSAR与GNSS测量地表形变、地下水位变化与地表形变关联分析。现就职于中国铁路设计集团。</p>
     </div>
   </div>
 
@@ -319,7 +321,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>常纪龙</strong></p>
       <p><strong>硕士 2022级</strong></p>
-      <p>研究滑坡与地质灾害风险评估。</p>
+      <p>研究生阶段方向为InSAR与GNSS融合处理。现就职于北京市测绘设计研究院，从事InSAR/GNSS/水准等大地测量数据解算与应用研究，北京市CORS系统运维及空间基准维持。</p>
     </div>
   </div>
 
@@ -328,7 +330,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>朱桐作</strong></p>
       <p><strong>硕士 2022级</strong></p>
-      <p>从事地面沉降建模与监测。</p>
+      <p>InsAR地面沉降建模与监测，现就职于重庆规划和自然资源调查监测院，从事自然资源和不动产权籍调查及登记工作。</p>
     </div>
   </div>
 
@@ -337,7 +339,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>成思雨</strong></p>
       <p><strong>硕士 2021级</strong></p>
-      <p>研究气候变化与水资源管理。</p>
+      <p>研究汾河流域InSAR地面沉降-回弹机理。</p>
     </div>
   </div>
 
@@ -346,7 +348,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>胡宝俊</strong></p>
       <p><strong>硕士 2021级</strong></p>
-      <p>从事城市地质与地下水资源监测。</p>
+      <p>研究InSAR矿山形变监测应用。</p>
     </div>
   </div>
 
@@ -355,7 +357,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>程清</strong></p>
       <p><strong>硕士 2021级</strong></p>
-      <p>研究水文气象与地面沉降之间的关系。</p>
+      <p>研究InSAR洪水面提取。</p>
     </div>
   </div>
 
@@ -380,5 +382,6 @@ html[data-theme="dark"] .teacher-info ul li {
 </div>
 
 </div>
+
 
 
