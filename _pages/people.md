@@ -144,7 +144,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <p><strong>李雪鹏</strong></p>
     <p><strong>博士 2025级</strong></p>
     <p>
-      研究方向为基于InSAR技术的华北平原地下水储量和水文参数研究，以第一作者和通讯作者已发表三篇SCI论文。<br>
+      研究方向为基于InSAR技术的华北平原地下水储量和水文参数研究。<br>
       ResearchGate：<a href="https://www.researchgate.net/profile/Xuepeng-Li-6?ev=prf_overview" target="_blank">Xuepeng Li</a>
     </p>
   </div>
@@ -323,7 +323,7 @@ html[data-theme="dark"] .teacher-info ul li {
     <div class="student-info">
       <p><strong>常纪龙</strong></p>
       <p><strong>硕士 2022级</strong></p>
-      <p>InSAR与GNSS融合处理。现就职于北京市测绘院，从事大地测量数据解算与应用研究，北京市CORS系统运维及空间基准维持。</p>
+      <p>InSAR与GNSS融合处理。现就职于北京市测绘院，从事大地测量数据解算与应用研究，北京市CORS系统运维。</p>
     </div>
   </div>
 
@@ -384,6 +384,7 @@ html[data-theme="dark"] .teacher-info ul li {
 </div>
 
 </div>
+
 
 
 
