@@ -139,22 +139,24 @@ html[data-theme="dark"] .teacher-info ul li {
   </div>
 
   <div class="student-card">
-    <img class="student-photo" src="/files/students/lixuepeng.jpg" alt="李雪鹏">
-    <div class="student-info">
-      <p><strong>李雪鹏</strong></p>
-      <p><strong>博士 2025级</strong></p>
-      <p>研究方向为基于InSAR技术的华北平原地下水储量和水文参数研究，以第一作者和通讯作者已发表三篇SCI论文
-Researchgat：[https://www.researchgate.net/profile/Xuepeng-Li-6?ev=prf_overview](https://www.researchgate.net/profile/Xuepeng-Li-6?ev=prf_overview)
-Email：lixuepeng2001@163.com</p>
-    </div>
+  <img class="student-photo" src="/files/students/lixuepeng.jpg" alt="李雪鹏">
+  <div class="student-info">
+    <p><strong>李雪鹏</strong></p>
+    <p><strong>博士 2025级</strong></p>
+    <p>
+      研究方向为基于InSAR技术的华北平原地下水储量和水文参数研究，以第一作者和通讯作者已发表三篇SCI论文。<br>
+      ResearchGate：<a href="https://www.researchgate.net/profile/Xuepeng-Li-6?ev=prf_overview" target="_blank">Xuepeng Li</a>
+    </p>
   </div>
+</div>
+
 
   <div class="student-card">
     <img class="student-photo" src="/files/students/zhaoxiangjun.jpg" alt="赵祥君">
     <div class="student-info">
       <p><strong><a href="https://1ife1over.github.io/" target="_blank">赵祥君</a></strong></p>
       <p><strong>博士 2023级</strong></p>
-      <p>研究地面沉降演化与地下水恢复机制。</p>
+      <p>研究含水层InSAR地面沉降监测与地下水资源可持续管理。</p>
     </div>
   </div>
 </div>
@@ -168,7 +170,7 @@ Email：lixuepeng2001@163.com</p>
     <div class="student-info">
       <p><strong>朱斯杰</strong></p>
       <p><strong>硕士 2025级</strong></p>
-      <p>研究形变场反演与数据融合。</p>
+      <p>InSAR数据处理与多源数据融合。</p>
     </div>
   </div>
 
@@ -222,7 +224,7 @@ Email：lixuepeng2001@163.com</p>
     <div class="student-info">
       <p><strong>曾羚</strong></p>
       <p><strong>硕士 2024级</strong></p>
-      <p>研究高分辨率InSAR监测技术。</p>
+      <p>北京市InSAR地面沉降/回弹机理与地下水位响应关系。</p>
     </div>
   </div>
 
@@ -321,7 +323,7 @@ Email：lixuepeng2001@163.com</p>
     <div class="student-info">
       <p><strong>常纪龙</strong></p>
       <p><strong>硕士 2022级</strong></p>
-      <p>研究生阶段方向为InSAR与GNSS融合处理。现就职于北京市测绘设计研究院，从事InSAR/GNSS/水准等大地测量数据解算与应用研究，北京市CORS系统运维及空间基准维持。</p>
+      <p>InSAR与GNSS融合处理。现就职于北京市测绘院，从事大地测量数据解算与应用研究，北京市CORS系统运维及空间基准维持。</p>
     </div>
   </div>
 
@@ -330,7 +332,7 @@ Email：lixuepeng2001@163.com</p>
     <div class="student-info">
       <p><strong>朱桐作</strong></p>
       <p><strong>硕士 2022级</strong></p>
-      <p>InsAR地面沉降建模与监测，现就职于重庆规划和自然资源调查监测院，从事自然资源和不动产权籍调查及登记工作。</p>
+      <p>InsAR地面沉降建模与监测，现就职于重庆规划和自然资源调查监测院，从事自然资源和不动产权籍调查工作。</p>
     </div>
   </div>
 
@@ -366,7 +368,7 @@ Email：lixuepeng2001@163.com</p>
     <div class="student-info">
       <p><strong>赵祥君</strong></p>
       <p><strong>硕士 2020级</strong></p>
-      <p>研究地面沉降演化与地下水恢复机制。</p>
+      <p>研究太原盆地地面沉降时序InSAR监测与季节性变形小波分析。</p>
     </div>
   </div>
 
@@ -375,13 +377,14 @@ Email：lixuepeng2001@163.com</p>
     <div class="student-info">
       <p><strong>王金洋</strong></p>
       <p><strong>硕士 2020级</strong></p>
-      <p>从事地下水与地面沉降的研究。</p>
+      <p>地下水回升条件下太原市地面沉降时空演变特征研究。</p>
     </div>
   </div>
 
 </div>
 
 </div>
+
 
 
 
