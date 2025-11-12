@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-欢迎访问中国矿业大学（北京）唐伟老师团队的网站！本网站展示了团队的成员、研究方向以及已发表的科研成果等信息。
+欢迎访问中国矿业大学（北京）唐伟副教授团队网站。本网站系统展示了团队的研究方向、科研成果、成员及相关活动，旨在促进交流与科研合作。
 
 ![photo](/files/homepage1.jpg)
 
@@ -20,7 +20,7 @@ redirect_from:
 已发表SCI论文20余篇。相关论著发表在Remote Sensing of Environment、International Journal of Rock Mechanics and Mining Sciences、Journal of Hydrology等行业知名期刊，研究成果受到了社会关注，被相关媒体追踪报道。
 
 关于德国Hambach露天矿地表形变研究成果被权威科学新闻网EurekAlert!报道：  
-[点击查看](https://www.eurekalert.org/pub_releases/2020-11/ggph-mom110420.php)
+[点击查看](https://www.eurekalert.org/news-releases/738824)
 
 关于太原盆地地面沉降与抬升研究成果被《卫报》报道：  
 [点击查看](https://www.theguardian.com/science/2021/dec/01/terrawatch-what-the-world-can-learn-from-chinas-sinking-city)
