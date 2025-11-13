@@ -12,9 +12,12 @@ author_profile: true
 
 实验室博士生赵祥君参加会议并作口头报告。题目为《基于InSAR反演的地表形变—地下水响应特征与时空演化研究：面向地下水资源的可持续开发与防灾减灾管理》。该研究通过多源InSAR数据融合与时序分析，深刻揭示了地下水开采引发地表形变的全过程演化机理，研究成果为区域水资源可持续开发与地质灾害防控提供了重要的科学依据。
 
-![photo](/files/meeting7.jpg)
+<p align="center">
+  <img src="/files/conference_photo/meeting4-1.jpg" width="80%">
+  <br>
+</p>
 
-![photo](/files/activities_photo/hefei_photo2.png)
-
-
-
+<p align="center">
+  <img src="/files/conference_photo/meeting4-2.jpg" width="80%">
+  <br>
+</p>
