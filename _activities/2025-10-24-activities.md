@@ -18,6 +18,6 @@ author_profile: true
 </p>
 
 <p align="center">
-  <img src="/files/conference_photo/meeting4-2.jpg" width="80%">
+  <img src="/files/conference_photo/meeting4-2.png" width="80%">
   <br>
 </p>
