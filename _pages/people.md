@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "People"
+title: "People/团队成员"
 permalink: /people/
 author_profile: true
 ---
@@ -384,6 +384,7 @@ html[data-theme="dark"] .teacher-info ul li {
 </div>
 
 </div>
+
 
 
 
