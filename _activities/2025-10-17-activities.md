@@ -12,13 +12,22 @@ author_profile: true
 
 赵祥君汇报题目为《基于InSAR的太原市含水层新固结水头与安全抽水余量研究》。该研究针对太原市地下水回弹后如何避免再次沉降的管理难题，创新性地提出了“新固结水头 (NPCH)” 与 “安全抽水余量 (SPB)” 两个概念。通过融合多源InSAR数据构建了近70年的形变序列，首次绘制了太原市全城的NPCH与SPB分区图，为不同区域的地下水开采划定了明确的“安全红线”，为实现水资源长效管理提供了精准的科学依据。该汇报获得优秀口头报告三等奖。
 
-![photo](/files/meeting5.jpg)
+<p align="center">
+  <img src="/files/conference_photo/meeting3-1.jpg" width="80%">
+  <br><em>
+</p>
 
-![photo](/files/activities_photo/changsha_photo1.jpg)
+<p align="center">
+  <img src="/files/conference_photo/meeting3-2.jpg" width="80%">
+  <br><em>
+</p>
 
 刘莹汇报题目为《时序InSAR相位解缠错误三维自动探测与改正》。该研究特别针对于不同干涉图出现相同的解缠错误，在闭合相位运算中错误相消的，从而导致解缠错误无法完全改正的情况，提出了空间域和时间域改正方法。空间域最大程度上准确探测干涉图相位解缠错误区域并改正，时间域对空间域无法识别的解缠错误进一步的检验与改正。提高了解缠相位的准确性，使得干涉相位反演出的形变结果更加准确可靠。
 
-![photo](/files/meeting6.jpg)
+<p align="center">
+  <img src="/files/conference_photo/meeting3-3.jpg" width="80%">
+  <br><em>
+</p>
 
 
 
