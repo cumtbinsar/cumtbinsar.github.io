@@ -14,19 +14,19 @@ author_profile: true
 
 <p align="center">
   <img src="/files/conference_photo/meeting3-1.jpg" width="80%">
-  <br><em>
+  <br>
 </p>
 
 <p align="center">
   <img src="/files/conference_photo/meeting3-2.jpg" width="80%">
-  <br><em>
+  <br>
 </p>
 
 刘莹汇报题目为《时序InSAR相位解缠错误三维自动探测与改正》。该研究特别针对于不同干涉图出现相同的解缠错误，在闭合相位运算中错误相消的，从而导致解缠错误无法完全改正的情况，提出了空间域和时间域改正方法。空间域最大程度上准确探测干涉图相位解缠错误区域并改正，时间域对空间域无法识别的解缠错误进一步的检验与改正。提高了解缠相位的准确性，使得干涉相位反演出的形变结果更加准确可靠。
 
 <p align="center">
   <img src="/files/conference_photo/meeting3-3.jpg" width="80%">
-  <br><em>
+  <br>
 </p>
 
 
