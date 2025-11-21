@@ -23,7 +23,7 @@ author_profile: true
   margin-bottom: 50px;
 }
 .teacher-photo {
-  width: 220px;
+  width: 260px;
   height: auto;
   object-fit: cover;
   border-radius: 0;
@@ -32,10 +32,10 @@ author_profile: true
 .teacher-info h2 { margin: 0 0 6px 0; }
 .teacher-info p { 
   margin: 4px 0; 
-  color: var(--text-color, #333); 
+  color: var(--text-color, #494E52); 
 }
 .teacher-info ul li {
-  color: var(--text-color, #333);
+  color: var(--text-color, #494E52);
 }
 html[data-theme="dark"] .teacher-info p,
 html[data-theme="dark"] .teacher-info ul li {
@@ -111,15 +111,13 @@ html[data-theme="dark"] .teacher-info ul li {
 <section class="teacher-section">
   <img class="teacher-photo" src="/images/weitang_photo.png" alt="唐伟">
   <div class="teacher-info">
-    <h2>唐 伟 <small>副教授 / 博导</small></h2>
-    <h3>中国矿业大学（北京） 地球科学与测绘工程学院</h3>
-
-    <h4>研究方向</h4>
+    <h2>唐 伟 <small>副教授 / 博士生导师</small></h2>
+    <h3>研究方向</h3>
     <ul>
-      <li>空间大地测量技术（SAR / InSAR / GNSS）</li>
-      <li>地表形变灾害监测与风险评估（地面沉降、滑坡、采动沉陷等）</li>
-      <li>含水层地面沉降监测与地下水资源可持续管理</li>
-      <li>地球物理建模与参数反演</li>
+      <li><strong>空间大地测量技术：</strong>包括 SAR/InSAR 时序分析、GNSS 监测及多源数据融合方法。</li>
+      <li><strong>地表形变灾害监测与风险评估：</strong>涵盖地面沉降、滑坡、采空区沉陷、露天矿边坡等地质灾害的监测与分析。</li>
+      <li><strong>超采含水层地面沉降研究：</strong>利用多源大地测量与遥感观测，结合数值模拟开展地下水超采引发的地面沉降机理分析与地下水资源可持续管理研究。</li>
+      <li><strong>地球物理建模与参数反演：</strong>面向地下资源开采的力学—水文—地球物理耦合建模及参数反演方法开发。</li>
     </ul>
   </div>
 </section>
@@ -384,6 +382,7 @@ html[data-theme="dark"] .teacher-info ul li {
 </div>
 
 </div>
+
 
 
 
