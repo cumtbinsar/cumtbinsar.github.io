@@ -1,39 +1,39 @@
 ---
 permalink: /
-title: "学术主页"
+title: "InSAR Geohazard Team @ CUMTB"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-欢迎访问中国矿业大学（北京）唐伟老师团队的网站。本网站系统展示了团队的研究方向、科研成果、成员及相关活动，旨在促进交流与科研合作。
-
-![photo](/files/homepage1.jpg)
+**中国矿业大学（北京）· 地表形变与地质灾害研究团队**
 
 ## 团队简介
 
-唐伟副教授，博士生导师，长期从事空间大地测量与遥感技术（包括SAR/InSAR/GNSS）在地质灾害、地下水资源管理、生态环境变化及地球物理建模等领域的应用研究。团队成员主要研究方向涵盖大地测量技术、地表形变灾害监测与风险评估、地下水资源可持续管理等。通过多源遥感数据与数值模拟相结合，我们的研究为城市地下水管理、地质灾害监测、生态环境变化分析等领域提供了重要的理论支持和技术手段。
+唐伟，副教授，博士生导师。武汉大学测绘遥感信息工程国家重点实验室博士毕业，德国地学研究中心 GFZ 博士后（CSC-DAAD 博士后奖学金），德国汉诺威大学高级访问学者（DAAD 奖学金）。长期从事空间大地测量与遥感技术（SAR/InSAR/GNSS）在地质灾害、地下水资源管理、生态环境变化及地球物理建模等领域的应用研究。团队成员的研究方向主要涵盖大地测量技术、地表形变灾害监测与风险评估、地下水资源可持续利用等。通过融合多源遥感观测与数值模拟，我们致力于为城市地下水管理、地质灾害监测与预警、地质环境变化分析等提供关键的理论依据与技术支撑。
+
+已发表SCI论文40余篇。相关论文发表在Remote Sensing of Environment、International Journal of Rock Mechanics and Mining Sciences、Journal of Hydrology、《地球物理学报》等行业知名期刊，研究成果受到了社会关注，被相关媒体追踪报道。主持国家自然科学基金面上项目1项、青年基金C类项目1项、国家自然科学基金科技活动项目（科学传播类）1项、国家重点研发计划“政府间国际科技创新合作”项目课题1项。
+
+**研究方向**  
+- 空间大地测量技术：包括 SAR/InSAR 时序分析、GNSS 监测及多源数据融合方法。  
+- 地表形变灾害监测与风险评估：涵盖地面沉降、滑坡、采空区沉陷、露天矿边坡等地质灾害的监测与分析。  
+- 超采含水层地面沉降研究：利用多源大地测量与遥感观测，结合数值模拟开展地下水超采引发的地面沉降机理分析与地下水资源可持续管理研究。  
+- 地球物理建模与参数反演：面向地下资源开采的力学—水文—地球物理耦合建模及参数反演方法开发。
 
 **电子邮箱**：[weitang@cumtb.edu.cn](mailto:weitang@cumtb.edu.cn)
 
-已发表SCI论文20余篇。相关论著发表在Remote Sensing of Environment、International Journal of Rock Mechanics and Mining Sciences、Journal of Hydrology等行业知名期刊，研究成果受到了社会关注，被相关媒体追踪报道。
+---
 
-关于德国Hambach露天矿地表形变研究成果被权威科学新闻网EurekAlert!报道：  
-[点击查看](https://www.eurekalert.org/news-releases/738824)
+## InSAR Geohazard Team
 
-关于太原盆地地面沉降与抬升研究成果被《卫报》报道：  
-[点击查看](https://www.theguardian.com/science/2021/dec/01/terrawatch-what-the-world-can-learn-from-chinas-sinking-city)
+**The InSAR Geohazard Team at CUMTB**, led by **Associate Professor Wei Tang** at China University of Mining and Technology (Beijing), focuses on advanced geodetic and remote sensing technologies for understanding and mitigating Earth surface hazards. Our research integrates **SAR/InSAR, GNSS, multi-source Earth observation, and numerical modeling** to investigate geohazards, groundwater resources, geo-environment change, and crustal deformation processes.
 
-相关研究的创新点在于首次详细探讨了太原地下水恢复对地表响应的影响，并通过多源InSAR数据的综合分析，提供了长期连续的地表变形监测。研究结果不仅增进了我们对地下水开采引起的地表变形在复杂城市含水层中影响的理解，也为未来地下水管理和与地下水相关的灾害缓解提供了关键信息。这些发现对于太原市乃至全球面临类似问题的城市具有重要的参考价值，有助于制定更为科学和有效的地下水管理策略，保护城市环境和居民生活安全。
+Our team’s research directions include:  
+- Advanced geodetic technologies (InSAR, GNSS, time-series analysis)  
+- Surface deformation and geohazard monitoring, including land subsidence, landslides, and mining-induced ground movement  
+- Groundwater sustainability assessment and aquifer deformation analysis  
+- Eco-environmental change detection using multi-sensor remote sensing data  
+- Numerical modeling and geophysical interpretation for deformation mechanisms and disaster risk evaluation  
 
-研究方向
-======
-1. 空间大地测量技术（SAR/InSAR/GNSS）
-2. 地表形变灾害监测与风险评估（地面沉降、滑坡、开采沉陷、露天矿边坡稳定性等）
-3. 超采含水层地面沉降多源大地测量与遥感监测、数值模拟与地下水资源可持续管理
-4. 地球物理建模与参数反演
-
-
-
-
+By combining multi-source satellite data with geomechanical and hydrological modeling, our team provides essential scientific insights and technological support for urban groundwater management, geohazard early warning, and geo-environmental monitoring. We aim to contribute innovative methodologies and decision-support tools to promote sustainable urban development and regional environmental security.
