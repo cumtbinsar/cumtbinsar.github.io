@@ -10,13 +10,6 @@ redirect_from:
 {% include base_path %}
 
 <style>
-.people-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 16px;
-  box-sizing: border-box;
-}
-
 /* 教师区：左图右文 */
 .teacher-section {
   display: flex;
@@ -25,7 +18,7 @@ redirect_from:
   margin-bottom: 50px;
 }
 .teacher-photo {
-  width: 220px;
+  width: 240px;
   height: auto;
   object-fit: cover;
   border-radius: 0;
@@ -34,16 +27,20 @@ redirect_from:
 .teacher-info h2 { margin: 0 0 6px 0; }
 .teacher-info p { 
   margin: 4px 0; 
-  color: var(--text-color, #333); 
+  color: var(--text-color, #494E52); 
 }
 .teacher-info ul li {
-  color: var(--text-color, #333);
+  color: var(--text-color, #494E52);
+}
+/* 将加粗字体颜色设置为#494E52 */
+.bold-text {
+  font-weight: bold;
+  color: #494E52; /* 设置加粗字体的颜色为#494E52 */
 }
 html[data-theme="dark"] .teacher-info p,
 html[data-theme="dark"] .teacher-info ul li {
   color: #ddd; /* 暗色模式下可读 */
 }
-
 </style>
 
 
@@ -51,24 +48,27 @@ html[data-theme="dark"] .teacher-info ul li {
 <section class="teacher-section">
   <img class="teacher-photo" src="/images/weitang_photo.png" alt="唐伟">
   <div class="teacher-info">
-    <h2>唐 伟 <small>副教授 / 博导</small></h2>
-    <h3>中国矿业大学（北京） 地球科学与测绘工程学院</h3>
-
-    <h4>研究方向</h4>
+    <h2>唐 伟 <small>副教授 / 博士生导师</small></h2>
+    <h3>研究方向</h3>
     <ul>
-      <li>空间大地测量技术（SAR / InSAR / GNSS）</li>
-      <li>地表形变灾害监测与风险评估（地面沉降、滑坡、采动沉陷等）</li>
-      <li>含水层地面沉降监测与地下水资源可持续管理</li>
-      <li>地球物理建模与参数反演</li>
+      <li><span class="bold-text">空间大地测量技术：</span>包括 SAR/InSAR 时序分析、GNSS 监测及多源数据融合方法。</li>
+      <li><span class="bold-text">地表形变灾害监测与风险评估：</span>涵盖地面沉降、滑坡、采空区沉陷、露天矿边坡等地质灾害的监测与分析。</li>
+      <li><span class="bold-text">超采含水层地面沉降研究：</span>利用多源大地测量与遥感观测，结合数值模拟开展地下水超采引发的地面沉降机理分析与地下水资源可持续管理研究。</li>
+      <li><span class="bold-text">地球物理建模与参数反演：</span>面向地下资源开采的力学—水文—地球物理耦合建模及参数反演方法开发。</li>
     </ul>
   </div>
 </section>
+
+
 
 <hr />
 
 
 教育经历
 ======
+
+---
+
 * 访问学者  2024-12——2025-03 
   * 德国莱布尼茨-汉诺威大学访问学者（DAAD再次邀请奖学金）
 * 博士后    2017-2018  
@@ -78,14 +78,24 @@ html[data-theme="dark"] .teacher-info ul li {
 * 硕士      2010-2013 
   * 武汉大学测绘遥感信息工程国家重点实验室摄影测量与遥感专业
 
+---
+
 工作经历
 ======
+
+---
+
 * 2024-- 中国矿业大学（北京）地球科学与测绘工程学院--博导
 * 2021-2024 中国矿业大学（北京）地球科学与测绘工程学院--副教授
 * 2017-2021 中国矿业大学（北京）地球科学与测绘工程学院--讲师
+
+---
   
 代表性科研项目
 ======
+
+---
+
 * 综合多源大地测量研究汾河流域地下水位回升对区域地面沉降的调控作用机制，国家自然科学基金（面上）项目，2024.01-2027.12，主持
 
 * 科学传播类：地下水、地面沉降与联合国2030可持续发展目标，国家自然科学基金（科技活动）项目，2024.08-2025.12，主持
@@ -112,9 +122,13 @@ html[data-theme="dark"] .teacher-info ul li {
 
 * 辽宁省矿区地面沉陷及塌陷InSAR调查项目，校地合作项目，主持
 
+---
 
 代表性科研论文
 ======
+
+---
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
