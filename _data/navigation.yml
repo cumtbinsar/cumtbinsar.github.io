@@ -8,40 +8,38 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "People"
+  - title: "团队成员" # 原文: People (常用：成员介绍、团队概况)
     url: /people/
     
-  - title: "Publications"
+  - title: "发表论文" # 原文: Publications (常用：学术成果、论文发表)
     url: /publications/
 
-  - title: "Conference"
+  - title: "学术会议" # 原文: Conference (常用：会议记录、参会情况)
     url: /conference/
 
-  # - title: "Talks"
+  # - title: "学术报告" # 原文: Talks (常用：邀请报告、讲座)
   #   url: /talks/    
 
-  # - title: "Teaching"
+  # - title: "教学工作" # 原文: Teaching (常用：课程信息)
   #   url: /teaching/    
     
-  - title: "Activities"
+  - title: "学术活动" # 原文: Activities (常用：科研动态、近期活动)
     url: /activities/
 
-  - title: "Science Communication"
+  - title: "科学传播" # 原文: Science Communication (常用：科普工作、社会服务)
     url: /science/
 
-  - title: "Tools"
+  - title: "科研工具" # 原文: Tools (常用：软件资源、常用工具)
     url: /tools/
         
-#  - title: "Blog Posts"
-#   url: /year-archive/
+  # - title: "博客文章" # 原文: Blog Posts
+  #   url: /year-archive/
     
-  - title: "CV"
+  - title: "个人简历" # 原文: CV
     url: /cv/
     
-  # - title: "CV"
+  # - title: "个人简历 (JSON)" # 原文: CV
   #   url: /cv-json/
 
-  # - title: "Guide"
+  # - title: "使用指南" # 原文: Guide
   #   url: /markdown/
-    
-  
