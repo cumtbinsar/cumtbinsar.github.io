@@ -23,7 +23,7 @@ main:
   # - title: "教学工作" # 原文: Teaching (常用：课程信息)
   #   url: /teaching/    
     
-  - title: "学术活动" # 原文: Activities (常用：科研动态、近期活动)
+  - title: "团队动态" # 原文: Activities (常用：科研动态、近期活动)
     url: /activities/
 
   - title: "科学传播" # 原文: Science Communication (常用：科普工作、社会服务)
