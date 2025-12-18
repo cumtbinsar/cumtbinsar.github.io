@@ -11,7 +11,7 @@ main:
   - title: "团队成员" # 原文: People (常用：成员介绍、团队概况)
     url: /people/
     
-  - title: "发表论文" # 原文: Publications (常用：学术成果、论文发表)
+  - title: "学术成果" # 原文: Publications (常用：发表论文、论文发表)
     url: /publications/
 
   - title: "学术会议" # 原文: Conference (常用：会议记录、参会情况)
