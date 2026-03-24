@@ -2,10 +2,8 @@
 layout: single
 title: "唐伟老师赴维也纳参加欧洲地球科学联合会2025年学术年会并作学术报告"
 excerpt: " "
-collection: conference
+collection: activities
 author_profile: true
-header:
-  pinned: true
 ---
 
 2025年4月28日至5月2日，课题组唐伟老师赴奥地利维也纳参加欧洲地球科学联合会（European Geosciences Union，EGU）2025年学术年会。会议期间，唐伟老师系统听取了地球科学领域前沿研究进展，并与国际同行开展了深入交流。
