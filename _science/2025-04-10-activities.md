@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "《地下水超采与地面沉降防治》主题科普行动顺利开展"
-excerpt: " "
-collection: activities
+excerpt: "《地下水超采与地面沉降防治》主题科普行动顺利开展<br/><img src='/files/activities_photo/20250410-1.jpg' style='width: 50%;'>"
+collection: science
 author_profile: true
 ---
 
