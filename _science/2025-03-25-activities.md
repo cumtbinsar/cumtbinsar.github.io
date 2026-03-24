@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "节尽所能，水到渠成”——实验室联合举办2025中国水周节水宣传活动"
-excerpt: "节尽所能，水到渠成”——实验室联合举办2025中国水周节水宣传活动"<br/><img src='/files/activities_photo/20250325-1.jpg' style='width: 50%;'>"
+title: "“节尽所能，水到渠成”——实验室联合举办2025中国水周节水宣传活动"
+excerpt: "“节尽所能，水到渠成”——实验室联合举办2025中国水周节水宣传活动"<br/><img src='/files/activities_photo/20250325-1.jpg' style='width: 50%;'>"
 collection: science
 author_profile: true
 ---
