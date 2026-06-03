@@ -11,7 +11,7 @@ author_profile: true
 交流会上，王国权教授作了题为《Mapping New Pre-Consolidation Head (NPCH) and Safe Pumping Buffer (SPB) for Groundwater Management in Post-Subsidence Cities: Case Studies from Houston and Tianjin》的学术报告。报告以休斯顿和天津两个典型地面沉降治理城市为案例，系统介绍了新固结水头（New Pre-Consolidation Head, NPCH）、安全抽水缓冲区（Safe Pumping Buffer, SPB）以及安全抽水量（Safe Pumping Volume, SPV）等概念在地下水资源管理中的应用思路。
 
 <p align="center">
-  <img src="/files/activities_photo/20260603-1.jpg" width="80%">
+  <img src="/files/activities_photo/20260603-1.jpg">
   <br>
   <em>王国权教授作学术报告</em>
 </p>
@@ -23,7 +23,7 @@ author_profile: true
 随后，团队学生赵祥君、曾羚、位雪停分别汇报了各自研究进展，内容涵盖太原地区、北京地区和苏锡常地区的地面沉降、地下水变化及区域形变监测研究。三位同学围绕研究区背景、数据处理方法、阶段性结果和下一步工作计划进行了介绍。王国权教授、唐伟老师和乔小军老师针对研究内容提出了具体指导意见，为同学们进一步完善研究工作提供了重要启发。
 
 <p align="center">
-  <img src="/files/activities_photo/20260603-2.jpg" width="80%">
+  <img src="/files/activities_photo/20260603-2.png">
   <br>
   <em>课题组师生与王国权教授开展交流讨论</em>
 </p>
