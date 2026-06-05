@@ -1,5 +1,5 @@
 ---
-title: "Land subsidence and rebound in the Taiyuan basin, northern China, in the context of inter-basin water transfer and groundwater management"
+title: "GNSS-constrained InSAR correction for land subsidence mapping in Tianjin, China"
 collection: publications
 category: manuscripts
 permalink: /publication/RSE
