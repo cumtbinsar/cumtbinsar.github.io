@@ -100,14 +100,20 @@ redirect_from:
   <img class="is-active" src="/files/homepage0.jpg" alt="团队主页图片 1">
   <img src="/files/homepage1.jpg" alt="团队主页图片 2">
   <img src="/files/homepage2.jpg" alt="团队主页图片 3">
+  <img src="/files/homepage3.jpg" alt="团队主页图片 4">
+
   <button class="homepage-carousel__button homepage-carousel__button--prev" type="button" aria-label="上一张">‹</button>
   <button class="homepage-carousel__button homepage-carousel__button--next" type="button" aria-label="下一张">›</button>
+
   <div class="homepage-carousel__dots" aria-label="选择轮播图片">
     <button class="homepage-carousel__dot is-active" type="button" aria-label="第 1 张"></button>
     <button class="homepage-carousel__dot" type="button" aria-label="第 2 张"></button>
     <button class="homepage-carousel__dot" type="button" aria-label="第 3 张"></button>
+    <button class="homepage-carousel__dot" type="button" aria-label="第 4 张"></button>
   </div>
 </div>
+
+
 
 <script>
   (() => {
