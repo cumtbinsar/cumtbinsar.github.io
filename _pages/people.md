@@ -137,7 +137,7 @@ html[data-theme="dark"] .teacher-info ul li {
   </div>
 
   <div class="student-card">
-  <img class="student-photo" src="/files/students/lixuepeng.jpg" alt="李雪鹏">
+  <img class="student-photo" src="/files/students/lixuepeng2.jpg" alt="李雪鹏">
   <div class="student-info">
     <p><strong>李雪鹏</strong></p>
     <p><strong>博士 2025级</strong></p>
