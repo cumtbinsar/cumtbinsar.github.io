@@ -127,6 +127,7 @@ html[data-theme="dark"] .teacher-info ul li {
 <!-- ================= 博士生 ================= -->
 <h3>博士生</h3>
 <div class="student-grid">
+  
   <div class="student-card">
     <img class="student-photo" src="/files/students/lusiying.jpg" alt="陆思影">
     <div class="student-info">
@@ -136,7 +137,6 @@ html[data-theme="dark"] .teacher-info ul li {
     </div>
   </div>
   
-<div class="student-grid">
   <div class="student-card">
     <img class="student-photo" src="/files/students/liuying.jpg" alt="刘莹">
     <div class="student-info">
