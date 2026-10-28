@@ -128,6 +128,16 @@ html[data-theme="dark"] .teacher-info ul li {
 <h3>博士生</h3>
 <div class="student-grid">
   <div class="student-card">
+    <img class="student-photo" src="/files/students/lusiying.jpg" alt="陆思影">
+    <div class="student-info">
+      <p><strong>陆思影</strong></p>
+      <p><strong>博士 2026级</strong></p>
+      <p>研究油气田地表形变监测与形变机理分析。</p>
+    </div>
+  </div>
+  
+<div class="student-grid">
+  <div class="student-card">
     <img class="student-photo" src="/files/students/liuying.jpg" alt="刘莹">
     <div class="student-info">
       <p><strong>刘莹</strong></p>
@@ -163,6 +173,51 @@ html[data-theme="dark"] .teacher-info ul li {
 <h3>硕士生</h3>
 <div class="student-grid">
 
+    <div class="student-card">
+    <img class="student-photo" src="/files/students/duzihao.jpg" alt="杜子豪">
+    <div class="student-info">
+      <p><strong>杜子豪</strong></p>
+      <p><strong>硕士 2026级</strong></p>
+      <p>河北邯郸人，本科毕业于内蒙古科技大学测绘工程专业。</p>
+    </div>
+  </div>
+
+  <div class="student-card">
+    <img class="student-photo" src="/files/students/songzhe.jpg" alt="宋喆">
+    <div class="student-info">
+      <p><strong>宋喆</strong></p>
+      <p><strong>硕士 2026级</strong></p>
+      <p>来自河南省焦作市，本科毕业于河南理工大学。</p>
+    </div>
+  </div>
+  
+  <div class="student-card">
+    <img class="student-photo" src="/files/students/wuzhixuan.jpg" alt="吴芷萱">
+    <div class="student-info">
+      <p><strong>吴芷萱</strong></p>
+      <p><strong>硕士 2026级</strong></p>
+      <p>来自辽宁沈阳，本科毕业于沈阳建筑大学，性格乐观开朗，积极上进。</p>
+    </div>
+  </div>
+
+  <div class="student-card">
+    <img class="student-photo" src="/images/profile.png" alt="魏新德">
+    <div class="student-info">
+      <p><strong>魏新德</strong></p>
+      <p><strong>硕士 2026级</strong></p>
+      <p>。。。</p>
+    </div>
+  </div>
+  
+  <div class="student-card">
+    <img class="student-photo" src="/images/profile.png" alt="向嘉宇">
+    <div class="student-info">
+      <p><strong>向嘉宇</strong></p>
+      <p><strong>硕士 2026级</strong></p>
+      <p>。。。</p>
+    </div>
+  </div>
+  
   <div class="student-card">
     <img class="student-photo" src="/files/students/zhusijie.jpg" alt="朱斯杰">
     <div class="student-info">
