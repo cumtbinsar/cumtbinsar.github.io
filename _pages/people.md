@@ -201,11 +201,11 @@ html[data-theme="dark"] .teacher-info ul li {
   </div>
 
   <div class="student-card">
-    <img class="student-photo" src="/images/profile.png" alt="魏新德">
+    <img class="student-photo" src="/files/students/weixinde.jpg" alt="魏新德">
     <div class="student-info">
       <p><strong>魏新德</strong></p>
       <p><strong>硕士 2026级</strong></p>
-      <p>。。。</p>
+      <p>河南南阳人，本科毕业于河南理工大学。</p>
     </div>
   </div>
   
