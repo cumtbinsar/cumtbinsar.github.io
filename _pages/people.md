@@ -210,11 +210,11 @@ html[data-theme="dark"] .teacher-info ul li {
   </div>
   
   <div class="student-card">
-    <img class="student-photo" src="/images/profile.png" alt="向嘉宇">
+    <img class="student-photo" src="/files/students/xiangjiayu.jpg" alt="向嘉宇">
     <div class="student-info">
       <p><strong>向嘉宇</strong></p>
       <p><strong>硕士 2026级</strong></p>
-      <p>。。。</p>
+      <p>来自湖北宜昌市，本科毕业于沈阳建筑大学。</p>
     </div>
   </div>
   
